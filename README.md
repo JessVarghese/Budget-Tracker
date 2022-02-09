@@ -5,11 +5,12 @@
   ## Description
   The Budget Tracker application is a tool that allows users to quickly add withdrawal or deposit transactions with or without a data/internet connection.
 
+  [Deployed application](https://arcane-headland-88398.herokuapp.com/)
 
   ## Table of Contents
 
-  * [Usage](#Usage)
-  * [Visuals](#usage)
+  * [Usage](#usage)
+  * [Visuals](#visuals)
   * [License](#license)
   * [Technologies](#technologies)
   * [Questions](#questions)
@@ -36,5 +37,5 @@
 
 
 ## Questions
-  If you have any questions about the repo, open and issue:
+  If you have any questions about the repo, open an issue:
   * Github: https://github.com/JessVarghese/Budget-Tracker
